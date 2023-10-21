@@ -1,6 +1,6 @@
 #APJ ABDUL KALAM BIOGRAPHY
 
-Tchnologies :-> HTML5, CSS3, JAVASCRIPT
+Tchnologies :-> HTML5, CSS3.
 
 1-> Landing Page Of Website 
 ![apj land page](https://github.com/nikhilmangal99/tributeex1/assets/147122502/ae53d6fe-1206-45a4-99f4-1270b8461996)
